@@ -1,0 +1,25 @@
+.header{
+    
+}
+body{
+    
+    background-color: rgb(243, 247, 255);
+}
+.todo-container{
+
+    width: 400px;
+  
+    background-color:azure;
+   border-radius: 5px;
+}
+input{
+    width: 350px;
+    border-radius: 5px;
+    height: 30px;
+}
+.{
+    margin-left: 30px;
+}
+.list-btn .btn {
+    width: 50px; /* Define a custom width */
+  }
